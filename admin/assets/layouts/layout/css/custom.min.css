@@ -1,0 +1,46 @@
+
+.range_inputs{
+    display:none;
+}
+
+
+.status-draft{
+    background: rgb(207, 0, 0); /*red*/
+}
+.status-invoice-sent{
+    background: rgb(148, 82, 22); /*brown*/
+}
+.status-order-confirmed{
+    background: rgb(5, 98, 185); /*blue*/
+}
+.status-bank-transferred{
+    background: rgb(216, 28, 170); /*pink*/
+}
+.status-preparing{
+    background: rgb(144, 19, 254); /*violet*/
+}
+.status-shipped{
+    background: rgb(17, 138, 15); /*green*/
+}
+.status-delivered{
+    background: #000000; /*black*/
+}
+
+
+
+.status-draft ,
+.status-invoice-sent ,
+.status-order-confirmed ,
+.status-bank-transferred ,
+.status-preparing ,
+.status-shipped ,
+.status-delivered{
+    text-transform: capitalize; 
+    color: #fff;
+    padding: 3px 6px;
+    font-size: 12px;
+}
+
+.set_status{
+    margin-bottom:5px;
+}

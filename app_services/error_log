@@ -1,0 +1,97 @@
+[22-Nov-2018 14:24:24 America/Denver] PHP Notice:  Undefined index: PHP_AUTH_USER in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 3
+[22-Nov-2018 14:24:24 America/Denver] PHP Notice:  Undefined index: PHP_AUTH_PW in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 4
+[22-Nov-2018 14:34:26 America/Denver] PHP Notice:  Undefined index: PHP_AUTH_USER in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 3
+[22-Nov-2018 14:34:26 America/Denver] PHP Notice:  Undefined index: PHP_AUTH_PW in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 4
+[22-Nov-2018 14:36:11 America/Denver] PHP Fatal error:  Call to undefined function sql() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 9
+[22-Nov-2018 14:36:26 America/Denver] PHP Fatal error:  Call to undefined function sql() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 9
+[22-Nov-2018 14:36:41 America/Denver] PHP Fatal error:  Call to undefined function sql() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 9
+[22-Nov-2018 14:36:56 America/Denver] PHP Fatal error:  Call to undefined function sql() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 9
+[22-Nov-2018 14:37:12 America/Denver] PHP Fatal error:  Call to undefined function sql() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 9
+[22-Nov-2018 14:37:28 America/Denver] PHP Fatal error:  Call to undefined function sql() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 9
+[22-Nov-2018 14:37:52 America/Denver] PHP Fatal error:  Call to undefined function sql() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 9
+[22-Nov-2018 14:38:07 America/Denver] PHP Fatal error:  Call to undefined function sql() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 9
+[22-Nov-2018 14:38:21 America/Denver] PHP Fatal error:  Call to undefined function sql() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 9
+[22-Nov-2018 14:38:36 America/Denver] PHP Fatal error:  Call to undefined function sql() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 9
+[22-Nov-2018 14:38:46 America/Denver] PHP Fatal error:  Call to undefined function sql() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 9
+[22-Nov-2018 14:38:51 America/Denver] PHP Fatal error:  Call to undefined function sql() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 9
+[22-Nov-2018 14:39:02 America/Denver] PHP Fatal error:  Call to undefined function sql() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 9
+[22-Nov-2018 14:39:07 America/Denver] PHP Fatal error:  Call to undefined function sql() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 9
+[22-Nov-2018 14:39:35 America/Denver] PHP Fatal error:  Call to undefined function sql() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 9
+[22-Nov-2018 14:39:49 America/Denver] PHP Fatal error:  Call to undefined function sql() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/log.php on line 9
+[29-Nov-2018 00:40:21 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:22 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:22 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:23 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:24 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:24 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:25 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:25 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:26 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:26 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:26 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:26 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:27 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:27 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:28 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:28 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:28 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:29 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:29 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:29 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:30 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:30 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:30 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:31 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:31 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:32 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:36 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:36 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:37 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:37 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:37 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:38 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:38 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:38 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:39 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:39 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:40 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:40 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:41 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:42 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:42 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:42 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:43 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:43 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:43 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:44 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:44 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simeple_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:44 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simpele_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:45 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simpele_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:45 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simpele_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:45 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simpele_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:46 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simpele_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:46 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simpele_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:46 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simpele_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:47 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simpele_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:47 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simpele_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:47 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simpele_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:48 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simpele_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[29-Nov-2018 00:40:48 Asia/Karachi] PHP Fatal error:  Call to undefined function my_simpele_date() in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_json.php on line 67
+[26-Feb-2019 06:45:06 UTC] PHP Parse error:  syntax error, unexpected '$d_o' (T_VARIABLE) in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 120
+[26-Feb-2019 06:45:06 UTC] PHP Parse error:  syntax error, unexpected '$d_o' (T_VARIABLE) in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 120
+[26-Feb-2019 06:45:06 UTC] PHP Parse error:  syntax error, unexpected '$d_o' (T_VARIABLE) in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 120
+[26-Feb-2019 06:45:08 UTC] PHP Parse error:  syntax error, unexpected '$d_o' (T_VARIABLE) in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 120
+[28-Feb-2019 15:55:18 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 218
+[28-Feb-2019 15:55:18 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 218
+[28-Feb-2019 15:55:18 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 218
+[28-Feb-2019 15:55:18 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 218
+[04-Mar-2019 07:06:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 214
+[04-Mar-2019 07:06:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 214
+[04-Mar-2019 07:06:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 214
+[04-Mar-2019 07:06:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 214
+[04-Mar-2019 07:06:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 214
+[08-Mar-2019 07:46:30 UTC] PHP Parse error:  syntax error, unexpected ''' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 202
+[21-Apr-2019 11:33:36 UTC] PHP Parse error:  syntax error, unexpected '*' in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 265
+[21-Apr-2019 11:33:36 UTC] PHP Parse error:  syntax error, unexpected '*' in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 265
+[21-Apr-2019 11:33:36 UTC] PHP Parse error:  syntax error, unexpected '*' in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 265
+[21-Apr-2019 11:33:49 UTC] PHP Parse error:  syntax error, unexpected '*' in /home1/zedexper/public_html/mmrsonline/app/WaterMonitoringIoT/app_services/pond_data_json.php on line 265

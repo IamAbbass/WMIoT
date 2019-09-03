@@ -1,0 +1,10 @@
+[01-Jan-2019 18:37:37 Asia/Karachi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zeddevel_water_iot.tbl_alibaba_limits' doesn't exist' in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/signin.php:61
+Stack trace:
+#0 /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/signin.php(61): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/signin.php on line 61
+[01-Jan-2019 18:37:41 Asia/Karachi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zeddevel_water_iot.tbl_alibaba_limits' doesn't exist' in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/signin.php:61
+Stack trace:
+#0 /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/signin.php(61): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/zeddevel/public_html/mmrsonline/app/WaterMonitoringIoT/signin.php on line 61
