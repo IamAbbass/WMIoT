@@ -1,1 +1,1 @@
-SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zeddevel_water_iot.tbl_manage_access' doesn't exist
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zeddevel_water_iot.tbl_manage_access' doesn't existSQLSTATE[HY000] [1045] Access denied for user 'zedexper_mmrs'@'localhost' (using password: YES)
