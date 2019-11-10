@@ -181,15 +181,13 @@
                             <?php if($view_all == true){ ?>
                             <th>Assigned To</th>
                             <?php } ?>
-                            <th>Pond Name</th>
-
-                            <th>Device ID</th>
+                            <th>Pond</th>
+                            <th>Device</th>
                             <th>Temperature</th>
                             <th>DO</th>
                             <th>pH</th>
-                            <th>Battery Volt</th>
-                            <th>Solar Volt</th>
-
+                            <th>Battery(V)</th>
+                            <th>Solar(V)</th>
                             <th>Options</th>
 												</tr>
 											</thead>
@@ -280,13 +278,16 @@
                             <td>$solar_voltage_display</td>
                             <td>
                               <a href='ranges.php?id=$id' class='btn purple btn-xs'>
-                              <i class='fa fa-sliders'></i> View/Update Tolerant Range
+                              <i class='fa fa-sliders'></i> Tolerant Range
                               </a>
                               <a href='pond_data.php?id=$id' class='btn btn-success btn-xs'>
                               <i class='fa fa-leaf'></i> View Pond Data
                               </a>
                               <a href='solar_data.php?id=$id' class='btn btn-danger btn-xs'>
                               <i class='fa fa-sun-o'></i> View Solar Data
+                              </a>
+                              <a href='spectrogram_data.php?id=$id' class='btn btn-warning btn-xs'>
+                              <i class='fa fa-bar-chart'></i> Spectrogram
                               </a>
                             </td>
                             </tr>";
