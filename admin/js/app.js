@@ -186,7 +186,7 @@ function initAndLoadSpectrogram(colorMap) {
         wavesurfer.on('error', hideProgress);
     })();
 
-    wavesurfer.load('media/100-hz.mp3');
+    wavesurfer.load('media/demo.wav');
 }
 
 document.addEventListener('DOMContentLoaded', function() {
